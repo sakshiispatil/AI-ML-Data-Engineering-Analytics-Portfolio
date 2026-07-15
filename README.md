@@ -5,9 +5,7 @@ Sakshi Patil
 
 Project Title
 Credit Risk Intelligence Platform
-An End-to-End Data Engineering, Machine Learning & Power BI Analytics Solution for NovaTrust Financial Services
-
-This is the title I'd recommend using on GitHub, your resume, and LinkedIn.
+An End-to-End Data Engineering, Machine Learning & Power BI Analytics Solution for NovaTrust Financial Services 
 
 Project Summary
 
